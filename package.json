@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.1"
+  },
+  "name": "svg-logo-maker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OConnell-Coder/svg-logo-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OConnell-Coder/svg-logo-maker/issues"
+  },
+  "homepage": "https://github.com/OConnell-Coder/svg-logo-maker#readme"
+}

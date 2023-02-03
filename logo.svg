@@ -1,0 +1,4 @@
+<svg version="1.1" width="500" height="400" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="210,10 410,310 10,310" style="fill:lime;stroke:purple;stroke-width:1" />
+    <text x="210" y="240" font-size="60" text-anchor="middle" fill="black">SNO</text>
+    </svg>
