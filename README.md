@@ -19,7 +19,7 @@ This is a simple command-line application. Required downloads are the code itsel
 
 ## Usage
 
-Walk-through Video Link: 
+Walk-through Video Link: https://drive.google.com/file/d/1D5iMdLYjMIxCRdCU7-VFDnv5AYNMxQJ-/view
 
 ## Credits
 
@@ -35,6 +35,6 @@ Tests were run using JEST and can be found in the tests folder.
 
 ## Links
 
-GitHub Repo Link: 
+GitHub Repo Link: https://github.com/OConnell-Coder/svg-logo-maker
 
-Walk-through Video Link: 
+Walk-through Video Link: https://drive.google.com/file/d/1D5iMdLYjMIxCRdCU7-VFDnv5AYNMxQJ-/view
