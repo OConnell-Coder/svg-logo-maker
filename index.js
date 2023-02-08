@@ -1,4 +1,4 @@
 const {prompt} = require('inquirer');
-const {questions, logoGen, shapes} = require('./lib');
+const {questions, logoGen} = require('./lib');
 
 prompt(questions).then(logoGen);
